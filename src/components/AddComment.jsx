@@ -1,4 +1,4 @@
-import { Component, useEffect, useState } from "react";
+import { useState } from "react";
 import { Button, Form } from "react-bootstrap";
 
 const AddComment = (props) => {

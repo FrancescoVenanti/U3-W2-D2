@@ -1,4 +1,3 @@
-import { Component } from "react";
 import { Card } from "react-bootstrap";
 
 const SingleBook = (props) => {
